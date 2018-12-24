@@ -4,7 +4,8 @@ Basic Calcultor using flutter
 
 For Educational and testing purposes
 
-##Running
+## Running
+
 Make sure you have flutter up and running.Instructions in the resources below
 
 Run flutter run in the root folder which will download all packages and run in you emulator or phone if connected
